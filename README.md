@@ -1,3 +1,3 @@
 # 📆 CIS-Android-App
 
-Tasks assigned during the app development process.
+A simple app to track assignments and attendance.

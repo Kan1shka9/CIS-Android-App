@@ -1,0 +1,102 @@
+[
+	{
+		name: "Katherine G. Johnson",
+		attendance: "4/16"
+	},
+	{
+		name: "Dorothy Vaughan",
+		attendance: "5/16"
+	},
+	{
+		name: "Mary Jackson",
+		attendance: "6/16"
+	},
+	{
+		name: "Al Harrison",
+		attendance: "8/16"
+	},
+	{
+		name: "Vivian Mitchell",
+		attendance: "14/16"
+	},
+	{
+		name: "Colonel Jim Johnson",
+		attendance: "13/16"
+	},
+	{
+		name: "Levi Jackson",
+		attendance: "11/16"
+	},
+	{
+		name: "Ruth",
+		attendance: "10/16"
+	},
+	{
+		name: "Karl Zielinski",
+		attendance: "4/16"
+	},
+	{
+    	name: "Sam Turner",
+    	attendance: "9/16"
+    },
+    {
+    	name: "Jim Webb",
+    	attendance: "12/16"
+    },
+    {
+    	name: "Mrs. Joylette Coleman",
+    	attendance: "14/16"
+    },
+    {
+    	name: "Joylette Johnson",
+    	attendance: "8/16"
+    },
+    {
+    	name: "Constance Johnson",
+    	attendance: "3/16"
+    },
+    {
+    	name: "Kathy Johnson",
+    	attendance: "1/16"
+    },
+    {
+    	name: "Levi Jr.",
+    	attendance: "3/16"
+    },
+    {
+    	name: "Carolyn Marie Jackson",
+    	attendance: "6/16"
+    },
+    {
+    	name: "Howard Vaughan",
+    	attendance: "8/16"
+    },
+    {
+    	name: "Leonard Vaughan",
+    	attendance: "10/16"
+    },
+    {
+    	name: "Kenneth Vaughn",
+    	attendance: "12/16"
+    },
+    {
+    	name: "Joshua Coleman",
+    	attendance: "15/16"
+    },
+    {
+    	name: "Marion Smithson",
+    	attendance: "15/16"
+    },
+    {
+    	name: "Professor Graves",
+    	attendance: "16/16"
+    },
+    {
+    	name: "Bernie",
+    	attendance: "16/16"
+    },
+    {
+    	name: "Eleanor",
+    	attendance: "1/16"
+    }
+]

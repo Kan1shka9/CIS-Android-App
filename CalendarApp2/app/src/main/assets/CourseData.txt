@@ -1,0 +1,15 @@
+/** AssignmentReminder RAW DATA
+*   INCORRECT MODIFICATIONS WILL BREAK APP FUNCTIONALITY
+*
+**/
+
+AD>>:CIS 4100,5,14,DBMS Assignment
+AD>>:CIS 4100,5,15,SQL Assignment
+AD>>:CIS 4100,5,16,Tableau Assignment
+AD>>:CIS 4100,5,17,Python Assignment
+AD>>:CIS 4100,5,18,R Assignment
+AD>>:CIS 4820,5,19,Business Intelligence Quiz
+AD>>:CIS 4820,5,20,Authoring Websites Quiz
+AD>>:CIS 4820,5,21,HealthCare Quiz
+AD>>:CIS 4820,5,22,Some Quiz
+AD>>:CIS 4820,5,23,Some Other Quiz

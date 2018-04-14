@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CIS-Tracker</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+
+    <string name="course_prompt">Choose a course</string>
+
+    <string-array name="course_arrays">
+        <item>Select Course Number</item>
+        <item>CIS-3060</item>
+        <item>CIS-4810</item>
+        <item>CIS-5270</item>
+    </string-array>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_main">Tracker</string>
+    <string name="course_select_main">Assignment Tracker</string>
+    <string name="attendance_tracker">Attendance Tracker</string>
+
+</resources>

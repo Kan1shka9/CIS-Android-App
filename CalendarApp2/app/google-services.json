@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "566611846808",
+    "firebase_url": "https://cis-app-d4e2f.firebaseio.com",
+    "project_id": "cis-app-d4e2f",
+    "storage_bucket": "cis-app-d4e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566611846808:android:8b688853fea14da9",
+        "android_client_info": {
+          "package_name": "com.kanishka.demo.calendarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566611846808-kdset34t7nh4e2dhu8v538em33c2ae1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanishka.demo.calendarapp",
+            "certificate_hash": "260050817d84350a16a3eaf16eeffe7f4c314da2"
+          }
+        },
+        {
+          "client_id": "566611846808-d18pr6g09mbds5fjd55sldl9qnrhco8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNpxrNLov80o1Dc65X_ynS2vp0GeCC9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566611846808-d18pr6g09mbds5fjd55sldl9qnrhco8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
