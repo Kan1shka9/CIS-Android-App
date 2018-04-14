@@ -6,4 +6,4 @@ A simple app to track assignments and attendance.
 
 ###### Demo:-
 
-[](https://www.youtube.com/embed/KUSNUpuDxp0?rel=0 "CIS-Android-App")
+[![](images/1.png)](https://www.youtube.com/embed/KUSNUpuDxp0?rel=0 "CIS-Android-App")
